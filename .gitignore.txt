@@ -1,0 +1,5 @@
+foto/
+runs/
+train/
+val/
+*.pt
